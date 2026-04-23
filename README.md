@@ -1,102 +1,72 @@
-<!--
-**76Trystan/76Trystan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Trystan</h1>
-<h3 align="center">Full-Stack Developer | Software Engineering Student</h3>
+<h1 align="center">Trystan Frederick</h1>
+<h3 align="center">Software Engineering Student | Full-Stack Developer</h3>
 
 ---
 
-## 🚀 About Me
-- 🎓 Studying Software Engineering  
-- 💻 Interested in **full-stack development, AI, and scalable systems**  
-- 🧠 Currently building **voice AI applications & agentic workflows**  
-- ⚡ Always building, experimenting, and learning  
+## About
+Final-year Software Engineering student with experience across full-stack development and backend systems.  
+Interested in building scalable applications, with a current focus on AI-integrated systems and reliable architectures.
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 👨‍💻 Languages
-- Python  
-- Java  
-- JavaScript / TypeScript  
-- C/C++  
+**Languages**
+- Python, Java, JavaScript/TypeScript, C/C++
 
-### ⚙️ Frameworks & Tools
-- React / Expo  
-- Flask  
-- Node.js  
-- Git & GitHub  
-- REST APIs  
+**Frameworks & Tools**
+- React (Expo), Flask, Node.js  
+- REST APIs, Git, GitHub  
 
-### 🤖 Currently Exploring
-- AI / LLM integrations  
-- Speech-to-text & text-to-speech systems  
-- Backend architecture & optimisation  
+**Current Focus**
+- AI/LLM integration  
+- Speech processing (STT/TTS)  
+- Backend design and system reliability  
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-### 🎙️ Locis
-> A production-oriented voice AI system for seamless human–AI interaction  
+### Locis (Private)
+Voice-based AI system designed for real-time interaction.
 
-- 🔊 Converts speech → intelligent response → audio output in real time  
-- 🧠 Uses LLMs for contextual, adaptive conversations  
-- ⚙️ Modular pipeline (STT → reasoning → TTS)  
-- 🚀 Built with a focus on real-world usability and performance  
-
-🔗 *(Currently Private)*  
+- End-to-end pipeline: speech-to-text → LLM processing → text-to-speech  
+- Emphasis on modular design and low-latency performance  
+- Built with a focus on practical usability  
 
 ---
 
-### 🤖 Resilient Agent Workflow
-> A robust AI agent system designed for reliability and structured execution  
+### Resilient Agent Workflow  
+https://github.com/76Trystan/resilient-agent-workflow  
 
-- 🧠 Implements **agentic workflows** for multi-step task handling  
-- 🔁 Designed to handle **failures, retries, and long-running processes**  
-- ⚙️ Modular and extensible architecture  
-- 🔒 Emphasises **safe execution and controlled autonomy**  
-- 🚀 Bridges experimental AI agents with production-ready systems  
+System for structured and reliable AI agent execution.
 
-🔗 https://github.com/76Trystan/resilient-agent-workflow  
+- Handles multi-step workflows with retry and failure management  
+- Modular architecture supporting extensibility  
+- Focused on controlled and predictable agent behaviour  
 
 ---
 
-### 🚗 Number Plate Check-In System
-> A lightweight system for validating and tracking vehicle entries  
+### Number Plate Check-In System  
+https://github.com/76Trystan/number-plate-check-in  
 
-- 🔍 Implements **number plate validation logic**  
-- 📊 Tracks and logs vehicle check-ins  
-- ⚡ Designed for real-time, efficient input handling  
-- 🧱 Focus on reliability and clean data processing  
-- 🚀 Applicable to parking, events, and access control systems  
+Lightweight vehicle entry tracking system.
 
-🔗 https://github.com/76Trystan/number-plate-check-in  
+- Implements validation and structured logging  
+- Designed for efficient, real-time input handling  
+- Applicable to access control and event systems  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=76Trystan&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=76Trystan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=76Trystan&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=76Trystan&layout=compact" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Contact
 - GitHub: https://github.com/76Trystan  
-- LinkedIn: https://www.linkedin.com/in/trystan-frederick/  
+- LinkedIn: https://www.linkedin.com/in/trystan-frederick/
