@@ -1,4 +1,4 @@
-<h1 align="center">Trystan Frederick</h1>
+<h1 align="center">Hi, Im Trystan</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer</h3>
 
 ---
@@ -15,8 +15,8 @@ Interested in building scalable applications, with a current focus on AI-integra
 - Python, Java, JavaScript/TypeScript, C/C++
 
 **Frameworks & Tools**
-- React (Expo), Flask, Node.js  
-- REST APIs, Git, GitHub  
+- React (Expo), Flask, Node.js, Temporal.io, Langchain, Ollama 
+- REST APIs, Git, Faster Whisper  
 
 **Current Focus**
 - AI/LLM integration  
