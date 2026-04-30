@@ -27,12 +27,14 @@ Interested in building scalable applications, with a current focus on AI-integra
 
 ## Projects
 
-### Locis (Private)
+### Locis
 Voice-based AI system designed for real-time interaction.
 
 - End-to-end pipeline: speech-to-text → LLM processing → text-to-speech  
 - Emphasis on modular design and low-latency performance  
-- Built with a focus on practical usability  
+- Built with a focus on practical usability
+
+https://locis-demo.vercel.app/ 
 
 ---
 
