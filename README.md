@@ -119,20 +119,17 @@ Lightweight vehicle entry tracking system.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=76Trystan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=76Trystan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=76Trystan&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=76Trystan&theme=tokyonight&utcOffset=2)](https://github.com/76Trystan)
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=76Trystan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=76Trystan&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
 
 </div>
 
