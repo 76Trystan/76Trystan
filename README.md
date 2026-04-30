@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Im Trystan</h1>
+<h1 align="center">Trystan</h1>
 <h3 align="center">Software Engineering Student | Full-Stack Developer</h3>
 
 ---
