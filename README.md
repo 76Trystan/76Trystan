@@ -8,19 +8,20 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-76Trystan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/76Trystan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Trystan_Frederick-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trystan-frederick/)
+[![Profile Views](https://komarev.com/ghpvc/?username=76Trystan&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/76Trystan)
 
 </div>
 
 ---
 
-## About
+<div align="center"><h2>About</h2></div>
 
 Final-year Software Engineering student with experience across full-stack development and backend systems.  
 Interested in building scalable applications, with a current focus on AI-integrated systems and reliable architectures.
 
 ---
 
-## Technical Skills
+<div align="center"><h2>Technical Skills</h2></div>
 
 <div align="center">
 
@@ -40,6 +41,7 @@ Interested in building scalable applications, with a current focus on AI-integra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-FF6B35?style=flat-square&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
 ![Temporal](https://img.shields.io/badge/Temporal.io-000000?style=flat-square&logo=temporal&logoColor=white)
@@ -54,7 +56,7 @@ Interested in building scalable applications, with a current focus on AI-integra
 
 ---
 
-## Projects
+<div align="center"><h2>Projects</h2></div>
 
 <table>
 <tr>
@@ -99,19 +101,36 @@ Lightweight vehicle entry tracking system.
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/number-plate-check-in)
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
+
+<br/><br/>
+
+*More projects coming soon...*
+
+[![GitHub](https://img.shields.io/badge/View_All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan?tab=repositories)
+
 </td>
 </tr>
 </table>
 
 ---
 
-## GitHub Stats
+<div align="center"><h2>GitHub Stats</h2></div>
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=76Trystan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=76Trystan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=76Trystan&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=76Trystan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=76Trystan&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff&hide_border=true" width="100%" />
 
