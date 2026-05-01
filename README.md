@@ -119,7 +119,12 @@ Lightweight vehicle entry tracking system.
 
 <div align="center">
 
-[![](https://metrics.lecoq.io/76Trystan?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Australia%2FSydney)](https://github.com/76Trystan)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
+
+<br/>
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=76Trystan&theme=tokyonight&utcOffset=2)](https://github.com/76Trystan)
 
 <br/>
 
