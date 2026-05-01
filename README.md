@@ -101,13 +101,17 @@ Lightweight vehicle entry tracking system.
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/number-plate-check-in)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<br/><br/>
+### [Secure Voting System](https://github.com/76Trystan/secure-voting-system)
 
-*More projects coming soon...*
+A secure, integrity-focused digital voting system.
 
-[![GitHub](https://img.shields.io/badge/View_All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan?tab=repositories)
+- Tamper-resistant vote recording and verification
+- Authentication and access control enforcement
+- Designed for transparency and auditability
+
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/secure-voting-system)
 
 </td>
 </tr>
