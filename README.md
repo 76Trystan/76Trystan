@@ -64,11 +64,11 @@ Interested in building scalable applications, with a current focus on AI-integra
 
 ### [Locis](https://locis-demo.vercel.app/)
 
-Voice-based AI system designed for real-time interaction.
+AI-powered personal smart tour guide for real-time, context-aware city exploration.
 
-- End-to-end pipeline: STT → LLM → TTS
-- Modular design with low-latency focus
-- Built for practical, real-world usability
+- One-tap voice guide: speech-to-text → agentic LLM → text-to-speech
+- Adaptive recommendations with vibe detection, crowd monitoring, and smart ranking
+- Mobility-aware routing with accessibility filters and live navigation
 
 [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://locis-demo.vercel.app/)
 
