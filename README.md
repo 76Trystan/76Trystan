@@ -66,9 +66,9 @@ Interested in building scalable applications, with a current focus on AI-integra
 
 AI-powered personal smart tour guide for real-time, context-aware city exploration.
 
-- One-tap voice guide: speech-to-text → agentic LLM → text-to-speech
-- Adaptive recommendations with vibe detection, crowd monitoring, and smart ranking
-- Mobility-aware routing with accessibility filters and live navigation
+- One-tap voice guide with full STT → LLM → TTS pipeline
+- Smart recommendations via vibe detection and crowd monitoring
+- Accessibility-first routing with mobility-aware navigation
 
 [![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://locis-demo.vercel.app/)
 
