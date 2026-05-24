@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Trystan&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&descColor=c9d1d9&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+AI-integrated+systems;Speech+processing+%E2%80%94+STT+%2F+TTS+pipelines;Reliable+backend+architectures;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+AI-integrated+systems;Speech+processing+%E2%80%94+STT+%2F+TTS+pipelines;Reliable+backend+architectures;Shipping+things+that+work)](https://git.io/typing-svg)
 
 <br/>
 
