@@ -117,27 +117,6 @@ A secure, integrity-focused digital voting system.
 </tr>
 </table>
 
----
-
-<div align="center"><h2>GitHub Stats</h2></div>
-
-<div align="center">
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=76Trystan&theme=tokyonight&utcOffset=2)](https://github.com/76Trystan)
-
-<br/>
-
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=76Trystan&theme=tokyonight)](https://github.com/76Trystan)
-
-</div>
-
----
 
 <div align="center">
 
