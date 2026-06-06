@@ -66,7 +66,7 @@ Currently working on AI-integrated systems, speech processing pipelines, and rel
 <tr>
 <td width="50%" valign="top">
 
-### [Locis](https://locis-demo.vercel.app/)
+### [Locis App](https://locis-demo.vercel.app/)
 
 AI-powered personal smart tour guide for real-time, context-aware city exploration.
 
