@@ -14,10 +14,14 @@
 
 ---
 
-<div align="center"><h2>About</h2></div>
+<div align="center">
+
+<h2>About</h2>
 
 Final-year Software Engineering student with a focus on full-stack and backend development.  
 Currently working on AI-integrated systems, speech processing pipelines, and reliable distributed architectures.
+
+</div>
 
 ---
 
