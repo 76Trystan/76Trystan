@@ -107,14 +107,15 @@ Lightweight vehicle entry tracking system.
 </td>
 <td width="50%" valign="top">
 
-### [Secure Voting System](https://github.com/76Trystan/secure-voting-system)
+### [Secure Voting System](https://secure-voting-system-1.onrender.com/)
 
-A secure, integrity-focused digital voting system.
+A simple, secure, integrity-focused digital voting system.
 
 - Tamper-resistant vote recording and verification
 - Authentication and access control enforcement
 - Designed for transparency and auditability
 
+[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://secure-voting-system-1.onrender.com/)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/secure-voting-system)
 
 </td>
