@@ -107,7 +107,7 @@ Lightweight vehicle entry tracking system.
 </td>
 <td width="50%" valign="top">
 
-### [Secure Voting System](https://secure-voting-system-1.onrender.com/)
+### [Anonymous Voting System](https://secure-voting-system-1.onrender.com/)
 
 A simple, secure, integrity-focused digital voting system.
 
