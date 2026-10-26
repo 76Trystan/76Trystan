@@ -66,6 +66,20 @@ Currently working on AI-integrated systems, speech processing pipelines, and dis
 <tr>
 <td width="50%" valign="top">
 
+### [Starfysh](https://starfysh.dev)
+
+Browser automation compiler that turns one AI-recorded session into a deterministic, self-healing script.
+
+- Agent authors the script once; the runtime runs it indefinitely
+- Self-healer diagnoses failures, patches the smallest piece, and shows a readable diff
+- Playwright adapter lets existing scripts plug straight into the runtime
+
+[![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://starfysh.dev)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/starfysh)
+
+</td>
+<td width="50%" valign="top">
+
 ### [Locis](https://locis-demo.vercel.app/)
 
 AI-powered personal smart tour guide for real-time, context-aware city exploration.
@@ -77,6 +91,8 @@ AI-powered personal smart tour guide for real-time, context-aware city explorati
 [![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://locis-demo.vercel.app/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Resilient Agent Workflow](https://github.com/76Trystan/resilient-agent-workflow)
@@ -88,21 +104,6 @@ Structured and reliable AI agent execution system.
 - Controlled and predictable agent behaviour
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/resilient-agent-workflow)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Number Plate Check-In](https://github.com/76Trystan/number-plate-check-in)
-
-Lightweight vehicle entry tracking system.
-
-- Validation and structured logging
-- Real-time, efficient input handling
-- Applicable to access control systems
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/number-plate-check-in)
 
 </td>
 <td width="50%" valign="top">
