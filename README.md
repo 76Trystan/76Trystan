@@ -66,7 +66,7 @@ Currently working on AI-integrated systems, speech processing pipelines, and dis
 <tr>
 <td width="50%" valign="top">
 
-### [Starfysh](https://starfysh.dev)
+### [Starfysh](https://starfysh.dev) *(in development — October 2026)*
 
 Browser automation compiler that turns one AI-recorded session into a deterministic, self-healing script.
 
