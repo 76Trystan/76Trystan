@@ -1,5 +1,7 @@
 <div align="center">
 
+# Trystan Frederick
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+AI-integrated+systems;Speech+processing+%E2%80%94+STT+%2F+TTS+pipelines;Reliable+backend+architectures;Shipping+things+that+work)](https://git.io/typing-svg)
 
 <br/>
@@ -119,4 +121,3 @@ A simple, secure, integrity-focused digital voting system.
 </td>
 </tr>
 </table>
-
