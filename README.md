@@ -80,7 +80,7 @@ Browser automation compiler that turns one AI-recorded session into a determinis
 </td>
 <td width="50%" valign="top">
 
-### [Locis](https://locis-demo.vercel.app/)
+### [Locis](https://locis-demo.vercel.app/) *(archived)*
 
 AI-powered personal smart tour guide for real-time, context-aware city exploration.
 
