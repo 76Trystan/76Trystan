@@ -72,7 +72,7 @@ AI-powered personal smart tour guide for real-time, context-aware city explorati
 - Smart recommendations via vibe detection and crowd monitoring
 - Accessibility-first routing with mobility-aware navigation
 
-[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://locis-demo.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://locis-demo.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ A simple, secure, integrity-focused digital voting system.
 - Authentication and access control enforcement
 - Designed for transparency and auditability
 
-[![Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://secure-voting-system-1.onrender.com/)
+[![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=render&logoColor=white)](https://secure-voting-system-1.onrender.com/)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/secure-voting-system)
 
 </td>
