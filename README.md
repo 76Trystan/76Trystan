@@ -2,91 +2,58 @@
 
 # Trystan Frederick
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+AI-integrated+systems;Speech+processing+%E2%80%94+STT+%2F+TTS+pipelines;Reliable+backend+architectures;Shipping+things+that+work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Building+AI-integrated+systems;Speech+processing+pipelines;Reliable+backend+architecture)](https://git.io/typing-svg)
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-76Trystan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/76Trystan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trystan_Frederick-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trystan-frederick/)
-[![Profile Views](https://komarev.com/ghpvc/?username=76Trystan&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/76Trystan)
+[![GitHub](https://img.shields.io/badge/GitHub-76Trystan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Trystan_Frederick-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trystan-frederick/)
 
 </div>
 
 ---
 
-<div align="center">
-
-<h2>About</h2>
-
-Final-year Software Engineering student with a focus on full-stack and backend development.
-Currently working on AI-integrated systems, speech processing pipelines, and distributed server infrastructure
-
-</div>
+Software engineer focused on backend and full-stack development. Currently building [Starfysh](https://starfysh.dev), working across AI-integrated systems, speech processing pipelines, and distributed server infrastructure.
 
 ---
-
-<div align="center"><h2>Technical Skills</h2></div>
-
-<div align="center">
 
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Frameworks & Tools**
+**Tools & Frameworks**
 
-![React](https://img.shields.io/badge/React_Expo-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square&logo=temporal&logoColor=white)
 ![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-FF6B35?style=flat-square&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
-![Temporal](https://img.shields.io/badge/Temporal.io-000000?style=flat-square&logo=temporal&logoColor=white)
-
-**Current Focus**
-
-![AI/LLM](https://img.shields.io/badge/AI%20%2F%20LLM%20Integration-7C3AED?style=flat-square)
-![Speech](https://img.shields.io/badge/Speech%20Processing%20(STT%2FTTS)-0EA5E9?style=flat-square)
-![Backend](https://img.shields.io/badge/Backend%20Design%20%26%20Reliability-10B981?style=flat-square)
-
-</div>
 
 ---
 
-<div align="center"><h2>Projects</h2></div>
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Starfysh](https://starfysh.dev) *(in development — October 2026)*
+### [Starfysh](https://starfysh.dev) *(in development)*
 
-Browser automation compiler that turns one AI-recorded session into a deterministic, self-healing script.
-
-- Agent authors the script once; the runtime runs it indefinitely
-- Self-healer diagnoses failures, patches the smallest piece, and shows a readable diff
-- Playwright adapter lets existing scripts plug straight into the runtime
+Browser automation compiler that turns one AI-recorded session into a deterministic, self-healing script. The agent authors it once; the runtime runs it indefinitely and patches failures automatically.
 
 [![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://starfysh.dev)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/starfysh)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/starfysh)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Locis](https://locis-demo.vercel.app/) *(archived)*
 
-AI-powered personal smart tour guide for real-time, context-aware city exploration.
-
-- One-tap voice guide with full STT → LLM → TTS pipeline
-- Smart recommendations via vibe detection and crowd monitoring
-- Accessibility-first routing with mobility-aware navigation
+AI-powered city tour guide with a full STT → LLM → TTS pipeline, smart recommendations, and accessibility-first routing.
 
 [![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://locis-demo.vercel.app/)
 
@@ -97,27 +64,19 @@ AI-powered personal smart tour guide for real-time, context-aware city explorati
 
 ### [Resilient Agent Workflow](https://github.com/76Trystan/resilient-agent-workflow)
 
-Structured and reliable AI agent execution system.
+Structured AI agent execution with multi-step workflows, retry handling, and modular architecture.
 
-- Multi-step workflows with retry and failure handling
-- Modular, extensible architecture
-- Controlled and predictable agent behaviour
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/resilient-agent-workflow)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/resilient-agent-workflow)
 
 </td>
 <td width="50%" valign="top">
 
 ### [Anonymous Voting System](https://secure-voting-system-1.onrender.com/)
 
-A simple, secure, integrity-focused digital voting system.
-
-- Tamper-resistant vote recording and verification
-- Authentication and access control enforcement
-- Designed for transparency and auditability
+Secure digital voting with tamper-resistant recording, authentication, and full auditability.
 
 [![Website](https://img.shields.io/badge/Website-00C7B7?style=flat-square&logo=render&logoColor=white)](https://secure-voting-system-1.onrender.com/)
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/secure-voting-system)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/76Trystan/secure-voting-system)
 
 </td>
 </tr>
