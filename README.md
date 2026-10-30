@@ -41,7 +41,7 @@ Software engineer focused on backend and full-stack development. Currently build
 <tr>
 <td width="50%" valign="top">
 
-### [Starfysh](https://starfysh.dev) *(in development)*
+### [Starfysh](https://starfysh.dev)
 
 Browser automation compiler that turns one AI-recorded session into a deterministic, self-healing script. The agent authors it once; the runtime runs it indefinitely and patches failures automatically.
 
